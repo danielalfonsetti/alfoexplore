@@ -1,0 +1,1 @@
+micromamba create -n venv_polars_dev python=3.13 polars ipykernel dataframely
